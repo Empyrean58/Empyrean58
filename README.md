@@ -23,3 +23,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=radical" />
 </p>
+
+## 🧠 当前学习进度
+
+```text
+📌 Day 1：已完成
+✅ Python 基础语法、判断、输入处理
+✅ VS Code 环境配置
+✅ Git 三步走 + GitHub 项目搭建
+✅ 猜数字小游戏开发
+
+📌 Day 2（进行中...）
+⬜ 条件与循环综合练习
+⬜ 项目：猜拳游戏 / 成绩判断工具
