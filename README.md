@@ -19,11 +19,6 @@
 
 ---
 
-### 📈 GitHub Stats（展示你的活跃度！）
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=radical" />
-</p>
-
 ## 🧠 当前学习进度
 
 ```text
@@ -36,3 +31,17 @@
 📌 Day 2（进行中...）
 ⬜ 条件与循环综合练习
 ⬜ 项目：猜拳游戏 / 成绩判断工具
+
+---
+
+### 📈 GitHub Stats（展示你的活跃度！）
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 📈 我的 GitHub 状态
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empyrean58&theme=tokyonight" />
+</p>
