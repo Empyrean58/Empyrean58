@@ -21,7 +21,7 @@
 
 ## 📬 联系方式
 <p> 
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:lgl584674608@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a> 
   <a href="https://github.com/Empyrean58"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
