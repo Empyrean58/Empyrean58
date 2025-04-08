@@ -34,14 +34,10 @@
 
 ---
 
-### 📈 GitHub Stats（展示你的活跃度！）
+### 📈 我的 GitHub 活跃度
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=radical" />
-</p>
-
----
-
-### 📈 我的 GitHub 状态
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Empyrean58&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empyrean58&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empyrean58&theme=radical" />
 </p>
