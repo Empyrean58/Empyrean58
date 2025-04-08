@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Linux-333?logo=linux&logoColor=fff" />
 </p>
 
-
+---
 
 ## 🧠 当前学习进度
 
@@ -31,8 +31,6 @@
 📌 Day 2（进行中...）
 ⬜ 条件与循环综合练习
 ⬜ 项目：猜拳游戏 / 成绩判断工具
-
----
 
 ### 📈 我的 GitHub 活跃度
 
